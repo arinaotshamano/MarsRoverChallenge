@@ -43,7 +43,7 @@ MMRMMRMRRM
    
 3. **Or use IntelliJ**
    - Open Intellij
-   - Run MarsRoverApp.java. 
+   - Run Main.java. 
 
 ## Author
 Tshamano Arinao
